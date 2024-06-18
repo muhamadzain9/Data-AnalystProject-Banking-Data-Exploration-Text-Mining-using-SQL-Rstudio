@@ -1,0 +1,485 @@
+Nomor	Tanggal	Cabang	Area	Jumlah Teller	Jumlah Transaksi Teller	Rata-Rata Transaksi per Teller	Keterangan Teller	Jumlah CS	Jumlah Transaksi CS	Rata-Rata Transaksi CS	Jenis Transaksi Dominan Teller	Jenis Transaksi Dominan CS	Nasabah Teller terakhir dilayani	Nasabah CS Terakhir dilayani
+1	05/07/2021	Asia Afrika Utara	BAA	4	425	106	Medium	4	61	15	setor tarik	ganti kartu atm	16.15	15.20
+2	05/07/2021	Asia Afrika Selatan	BAA	3	510	170	Over	3	45	15	Setor tunai, pindah buku dan transfer ke bank lain	ganti kartu atm	16.00	15.15
+3	05/07/2021	Soekarno-Hatta	BAA	4	485	121	Medium	4	105	26	setor dan kliring	ganti kartu	16.00	16.00
+4	05/07/2021	Binacitra	BAA	2	340	170	Over	3	75	25	setoran, transfer pinbuk	ganti kartu atm	16.00	16.00
+5	05/07/2021	Kiara Condong	BAA	2	397	199	Over	3	110	37	setor tunai 	ganti kartu chip dan kartu skiming 	15.05	15.10
+6	05/07/2021	Buah Batu	BAA	3	220	73	Under	3	75	25	setor tunai	penggantian kartu debit terblokir 32 upgrade	15.30	15.30
+7	05/07/2021	Kopo	BAA	2	490	245	Over	3	81	27	Setoran dan trf pindah buku	Ganti Atm	16.15	15.50
+8	05/07/2021	Siliwangi	BAA	2	255	128	Medium	4	65	16	Setoran dan transaksi menggunakan Cek	Penggantian Kartu Debit	15.05	15.10
+9	05/07/2021	Burangrang	BAA	3	350	117	Medium	2	62	31	Setoran tunai 	Ganti ATM	15.30	15.30
+10	05/07/2021	Mohamad Toha	BAA	2	285	143	Medium	2	60	30	Setoran Tunai	Ganti Kartu ATM	15.12	15.10
+11	05/07/2021	Soreang	BAA	3	400	133	Medium	3	101	34	Setor dan tarik	Ganti kartu atm	15.25	15.30
+12	05/07/2021	Dayeuhkolot	BAA	3	259	86	Under	2	73	37	Setor Tunai	Ganti Kartu Debit	17.00	17.00
+13	05/07/2021	Pasir Kaliki	BAA	2	272	136	Medium	2	50	25	Setoran	Ganti kartu	14.40	14.40
+14	05/07/2021	Majalaya	BAA	2	335	168	Optimum	2	54	27	Setor	Ganti kartu	15.10	15.05
+15	05/07/2021	Banjaran	BAA	2	235	118	Medium	3	136	45	Setoran 	Ganti atm dan buka blokir	16.06	17.04
+16	05/07/2021	Pangalengan	BAA	1	185	185	Over	1	35	35	Setoran tunai	Ganti kartu	16.00	15.00
+17	05/07/2021	Cijerah	BAA	1	165	165	Optimum	1	36	36	setoran tunai dan pembayaran	pergantian kartu atm, buka rekening	15.10	15.30
+18	06/07/2021	Asia Afrika Utara	BAA	4	470	118	Medium	4	55	14	setoran	ganti kartu	15.40	15.25
+19	06/07/2021	Asia Afrika Selatan	BAA	3	673	224	Over	3	48	16	Pindah buku , transfer ke bank lain	Ganti kartu dan daftar 	16.25	15.10
+20	06/07/2021	Soekarno-Hatta	BAA	3	420	140	Medium	4	100	25	Setoran	ganti atm upgrade	16.00	16.00
+21	06/07/2021	Binacitra	BAA	3	410	137	Medium	3	50	17	setoran	ganti kartu	15.30	15.30
+22	06/07/2021	Kiara Condong	BAA	3	256	85	Under	3	104	35	setoran dan penarikan	ganti kartu dan daftar 	14.57	14.55
+23	06/07/2021	Buah Batu	BAA	4	310	78	Under	3	71	24	Setor tunai	Ganti kartu	16.15	16.30
+24	06/07/2021	Kopo	BAA	2	280	140	Medium	3	81	27	Setor tunai, trf pinbuk,tarik tunai	Ganti atm,cetak rk,buka rek	15.45	15.30
+25	06/07/2021	Siliwangi	BAA	2	202	101	Medium	4	56	14	Setoran dan SKN	Penggantian Kartu	15.22	15.20
+26	06/07/2021	Burangrang	BAA	2	190	95	Under	2	32	16	Setoran 	Penggantian ATM	15.00	15.00
+27	06/07/2021	Mohamad Toha	BAA	2	290	145	Medium	2	51	26	Setoran Tunai	Ganti kartu dan aktivasi  by 	15.07	14.55
+28	06/07/2021	Soreang	BAA	3	302	101	Medium	3	142	47	Setor dan tarik	Ganti kartu dan buka rekening	15.04	15.30
+29	06/07/2021	Dayeuhkolot	BAA	2	186	93	Under	2	83	42	setor tunai	penggantian kartu	15.00	16.00
+30	06/07/2021	Pasir Kaliki	BAA	2	149	75	Under	2	26	13	Setoran	Buka kartu	14.40	14.40
+31	06/07/2021	Majalaya	BAA	3	675	225	Over	2	61	31	Setor dan payroll	Ganti kartu	15.45	15.30
+32	06/07/2021	Banjaran	BAA	2	215	108	Medium	3	95	32	Setoran 	Ganti atm	16.00	16.00
+33	06/07/2021	Pangalengan	BAA	1	119	119	Medium	1	40	40	Setoran tunai	Ganti kartu debit	15.00	15.15
+34	06/07/2021	Cijerah	BAA	2	180	90	Under	1	40	40	setor tunai dan pembayaran	ganti kartu, aktivasi mandol krn ganti nomor	16.00	15.54
+35	07/07/2021	Asia Afrika Utara	BAA	4	362	91	Under	3	32	11	Setor tarik	Ganti kartu	15.20	14.55
+36	07/07/2021	Asia Afrika Selatan	BAA	3	326	109	Medium	4	25	6	Setor tunai, pinbuk	Ganti kartu	15.15	15.20
+37	07/07/2021	Soekarno-Hatta	BAA	4	343	86	Under	4	90	23	setoran tunai	ganti atm upgrade	15.00	15.00
+38	07/07/2021	Binacitra	BAA	3	304	101	Medium	3	35	12	Setoran	Ganti kartu	15.00	15.15
+39	07/07/2021	Kiara Condong	BAA	3	244	81	Under	3	82	27	Setoran	ganti kartu atm dan daftar  	15.05	14.55
+40	07/07/2021	Buah Batu	BAA	3	271	90	Under	3	59	20	setor dan penarikan	ganti kartu debit	15.00	15.00
+41	07/07/2021	Kopo	BAA	2	290	145	Medium	3	71	24	Setor tunai, trf pinbuk, multi payment	Ganti Atm, Buka Rek Tab, MTR, Cetak Rk	15.20	15.30
+42	07/07/2021	Siliwangi	BAA	2	217	109	Medium	4	48	12	Setoran dan penarikan	Penggantian Kartu Debit	15.05	15.03
+43	07/07/2021	Burangrang	BAA	2	202	101	Medium	1	26	26	Setoran dan tarik tunai	Penggantian kartu ATM	15.00	15.00
+44	07/07/2021	Mohamad Toha	BAA	2	253	127	Medium	2	50	25	Setoran Tunai	Ganti Kartu ATM & Aktivasi  by 	15.10	15.03
+45	07/07/2021	Soreang	BAA	3	280	93	Under	3	163	54	Setor tunai	Pergantian kartu dan buka rekening	14.45	15.06
+46	07/07/2021	Dayeuhkolot	BAA	2	220	110	Medium	2	80	40	setor tunai	penggantian kartu	15.30	16.30
+47	07/07/2021	Pasir Kaliki	BAA	2	161	81	Under	2	15	8	Setoran	Buka kartu	14.40	14.40
+48	07/07/2021	Majalaya	BAA	2	256	128	Medium	2	54	27	Setor	Ganti kartu	15.20	15.15
+49	07/07/2021	Banjaran	BAA	2	210	105	Medium	2	120	60	Setoran tunai	Ganti kartu	15.03	15.30
+50	07/07/2021	Pangalengan	BAA	1	146	146	Medium	1	35	35	Setoran tunai	Ganti kartu	15.00	15.30
+51	07/07/2021	Cijerah	BAA	1	181	181	Over	1	36	36	Setor tunai	Ganti kartu,buka tabungan	15.25	15.15
+52	08/07/2021	Asia Afrika Utara	BAA	3	465	155	Optimum	4	33	8	setoran	ganti kartu	15.40	15.20
+53	08/07/2021	Asia Afrika Selatan	BAA	3	411	137	Medium	4	25	6	Skn	Buka blokir atm	15.30	15.00
+54	08/07/2021	Soekarno-Hatta	BAA	4	396	99	Under	4	85	21	Setor dan transfer	Ganti kartu atm	15.30	15.30
+55	08/07/2021	Binacitra	BAA	3	415	138	Medium	3	25	8	setoran	ganti kartu	15.00	15.00
+56	08/07/2021	Kiara Condong	BAA	2	332	166	Optimum	3	110	37	setor tunai	ganti kartu dan daftar 	15.05	15.07
+57	08/07/2021	Buah Batu	BAA	4	355	89	Under	3	53	18	Setoran dan payroll	Ganti kartu	16.00	16.00
+58	08/07/2021	Kopo	BAA	2	320	160	Optimum	3	86	29	Setor tunai, trf antar bank, tarik tunai, multi payment	Ganti ATM, buka rekening, Cetak RK	15.30	16.30
+59	08/07/2021	Siliwangi	BAA	2	237	119	Medium	4	45	11	Setoran tunai dan tarik tunai	Penggantian Kartu Debit	14.53	14.50
+60	08/07/2021	Burangrang	BAA	2	220	110	Medium	2	35	18	Setoran dan pembayaran multipayment	Penggantian ATM	15.30	15.30
+61	08/07/2021	Mohamad Toha	BAA	2	250	125	Medium	2	49	25	Setoran Tunai	Ganti kartu atm & aktifasi  by 	16.02	14.55
+62	08/07/2021	Soreang	BAA	2	321	161	Optimum	3	109	36	Setoran tunai	Pergantian kartu dan buka rekening	15.42	15.00
+63	08/07/2021	Dayeuhkolot	BAA	3	283	94	Under	3	79	26	setor tunai	ganti kartu	15.00	16.00
+64	08/07/2021	Pasir Kaliki	BAA	2	173	87	Under	2	23	12	Setoran	Buka kartu	14.40	14.40
+65	08/07/2021	Majalaya	BAA	2	250	125	Medium	2	50	25	Setoran	Ganti kartu, Buka rekening	15.00	16.30
+66	08/07/2021	Banjaran	BAA	2	200	100	Medium	3	99	33	Setoran	Buka rekening	16.09	16.09
+67	08/07/2021	Pangalengan	BAA	1	140	140	Medium	1	35	35	Setoran tunai	Buka blokiran	15.10	15.30
+68	08/07/2021	Cijerah	BAA	1	167	167	Optimum	1	36	36	setoran, pembayaran	gabti kartu, aktivasi mbanking, buka blokir salah pin	15.05	15.00
+69	09/07/2021	Asia Afrika Utara	BAA	4	732	183	Over	3	42	14	setor	ganti kartu 	15.50	15.15
+70	09/07/2021	Asia Afrika Selatan	BAA	3	532	177	Over	4	35	9	Setor dan pindah buku	Ganti kartu	15.04	14.30
+71	09/07/2021	Soekarno-Hatta	BAA	3	725	242	Over	4	112	28	Tarik setor 	Penggantian kartu	15.30	15.30
+72	09/07/2021	Binacitra	BAA	3	360	120	Medium	3	48	16	setoran	ganti kartu	15.15	15.30
+73	09/07/2021	Kiara Condong	BAA	2	324	162	Optimum	3	62	21	setor tunai	ganti kartu dan daftar 	14.55	14.45
+74	09/07/2021	Buah Batu	BAA	4	297	74	Under	4	42	11	Setor tunai	Ganti kartu	17.20	17.20
+75	09/07/2021	Kopo	BAA	2	350	175	Over	3	80	27	Setor tunai, tarik tunai, pajak, trf pinbuk	Ganti Atm, buka rek tab, cetak Rk	15.15	15.25
+76	09/07/2021	Siliwangi	BAA	2	241	121	Medium	4	50	13	Setor dan SKN	Penggantian Kartu Debit	14.58	14.55
+77	09/07/2021	Burangrang	BAA	2	226	113	Medium	2	35	18	Setoran dan tarik tunai 	Penggantian ATM	15.30	15.30
+78	09/07/2021	Mohamad Toha	BAA	2	264	132	Medium	2	40	20	Setoran Tunai	Ganti Kartu ATM	15.16	15.10
+79	09/07/2021	Soreang	BAA	3	420	140	Medium	3	114	38	Setoran	Ganti kartu	15.30	15.00
+80	09/07/2021	Dayeuhkolot	BAA	3	350	117	Medium	3	72	24	setor tunai	penggantian kartu	15.00	16.00
+81	09/07/2021	Pasir Kaliki	BAA	2	181	91	Under	2	15	8	Setoran	Buka blokir	14.40	14.40
+82	09/07/2021	Majalaya	BAA	2	325	163	Optimum	2	62	31	Setoran	Pembukaan rekening, Ganti kartu	15.30	15.15
+83	09/07/2021	Banjaran	BAA	3	265	88	Under	3	126	42	Setoran	Buka rekening	17.00	17.00
+84	09/07/2021	Pangalengan	BAA	1	147	147	Medium	1	40	40	Setoran tunai	Ganti kartu	15.30	16.00
+85	09/07/2021	Cijerah	BAA	1	182	182	Over	1	33	33	setoran, pembayaran, pembuatan pin	ganti kartu, buka rekening, aktivasi 	15.45	15.45
+86	12/07/2021	Asia Afrika Utara	BAA	5	374	75	Under	3	42	14	setor tarik	ganti kartu	15.15	15.40
+87	12/07/2021	Asia Afrika Selatan	BAA	3	431	144	Medium	4	55	14	Skn , setor, tarik	Ganti kartu	15.15	15.00
+88	12/07/2021	Soekarno-Hatta	BAA	6	135	23	Under	4	73	18	Setor	Ganti kartu	16.00	16.00
+89	12/07/2021	Binacitra	BAA	3	250	83	Under	3	49	16	setoran	ganti kartu	15.00	16.15
+90	12/07/2021	Metro	BAA	3	275	92	Under	1	175	175	Setoran Perusahaan	Ganti ATM dan daftar 	15.20	16.00
+91	12/07/2021	Kiara Condong	BAA	2	247	124	Medium	3	85	28	setor tunai	ganti kartu dan daftar 	15.05	14.55
+92	12/07/2021	Kopo	BAA	2	260	130	Medium	3	86	29	Setor dan tarik tunai, trf antar bank	Ganti kartu atm, buka mtr, cetak rk	15.45	15.50
+93	12/07/2021	Siliwangi	BAA	2	266	133	Medium	4	51	13	Setor tunai dan pencairan cek	Penggantian kartu debit	14.55	14.58
+94	12/07/2021	Sumbersari	BAA	3	350	117	Medium	3	81	27	Setor tunai	Ganti kartu atm	15.45	15.40
+95	12/07/2021	Burangrang	BAA	3	242	81	Under	2	61	31	Setoran tunai 	Ganti kartu ATM	15.00	15.00
+96	12/07/2021	Mohamad Toha	BAA	2	203	102	Medium	2	41	21	Setoran Tunai	Ganti Kartu ATM	15.31	15.18
+97	12/07/2021	Soreang	BAA	4	329	82	Under	3	147	49	Setor tunai	Ganti kartu	15.15	14.45
+98	12/07/2021	Dayeuhkolot	BAA	2	287	144	Medium	3	75	25	setor tunai 	penggantian kartu	15.00	16.00
+99	12/07/2021	Pasir Kaliki	BAA	2	152	76	Under	1	27	27	Setor tunai	Ganti kartu atm	15.01	14.30
+100	12/07/2021	Majalaya	BAA	2	324	162	Optimum	2	52	26	Setor	Buka rekening	15.45	15.30
+101	12/07/2021	Banjaran	BAA	3	259	86	Under	3	97	32	Setoran	Ganti atm	16.00	16.00
+102	12/07/2021	Pangalengan	BAA	1	204	204	Over	1	42	42	Setoran tunai	Penggantian kartu	16.00	15.30
+103	13/07/2021	Asia Afrika Utara	BAA	5	412	82	Under	3	36	12	Setor	Ganti kartu	15.14	15.46
+104	13/07/2021	Asia Afrika Selatan	BAA	3	446	149	Medium	4	25	6	Setor tunai	Buka rekening	15.00	15.00
+105	13/07/2021	Soekarno-Hatta	BAA	4	135	34	Under	4	61	15	Setor	Ganti kartu	16.30	16.30
+106	13/07/2021	Binacitra	BAA	3	256	85	Under	3	35	12	setoran	Pergantian kartu	15.00	15.00
+107	13/07/2021	Metro	BAA	3	366	122	Medium	3	162	54	Setoran Perusahaan	Buka blokir atm, reset pin dan ganti kartu	15.00	16.00
+108	13/07/2021	Kiara Condong	BAA	2	309	155	Optimum	3	99	33	setor tunai	ganti kartu dan daftar 	15.15	14.45
+109	13/07/2021	Kopo	BAA	2	255	128	Medium	3	85	28	Multi payment,setor dan tarik tunai	Transaksi ganti atm, buka rek	15.20	15.35
+110	13/07/2021	Siliwangi	BAA	2	157	79	Under	4	47	12	Setoran dan Penarikan	Pergnatian Kartu Debit	14.45	14.52
+111	13/07/2021	Sumbersari	BAA	3	327	109	Medium	3	62	21	Setoran tunai	Pergantian kartu atm	15.00	15.10
+112	13/07/2021	Burangrang	BAA	2	151	76	Under	1	36	36	Pembayaran dan setoran	Ganti kartu ATM	15.00	15.00
+113	13/07/2021	Mohamad Toha	BAA	2	182	91	Under	2	31	16	Setoran Tunai	Ganti Kartu ATM	15.00	14.50
+114	13/07/2021	Soreang	BAA	2	305	153	Optimum	2	112	56	Setoran	Ganti kartu	15.01	14.56
+115	13/07/2021	Dayeuhkolot	BAA	2	228	114	Medium	2	75	38	setor tunai 	penggantian kartu	15.30	15.00
+116	13/07/2021	Pasir Kaliki	BAA	2	142	71	Under	1	21	21	Setor tunai	Ganti atm	14.50	14.30
+117	13/07/2021	Majalaya	BAA	3	325	108	Medium	3	51	17	Setor	Buka rekening	15.45	16.00
+118	13/07/2021	Banjaran	BAA	2	250	125	Medium	2	100	50	Setoran	Ganti atm	16.30	16.30
+119	13/07/2021	Pangalengan	BAA	1	135	135	Medium	1	40	40	Setoran tunai	Penggantian kartu	15.00	14.30
+120	14/07/2021	Asia Afrika Utara	BAA	5	376	75	Under	2	28	14	setor	ganti kartu	15.15	15.40
+121	14/07/2021	Asia Afrika Selatan	BAA	3	230	77	Under	3	25	8	Setor tunai	Ganti kartu	15.00	15.00
+122	14/07/2021	Soekarno-Hatta	BAA	5	90	18	Under	4	64	16	Setor tunai	Ganti kartu	15.00	15.00
+123	14/07/2021	Binacitra	BAA	2	210	105	Medium	2	22	11	Setor tunai	Penggantian kartu	15.10	15.00
+124	14/07/2021	Metro	BAA	3	280	93	Under	2	105	53	Setor	Ganti ATM 	15.00	15.30
+125	14/07/2021	Kiara Condong	BAA	2	237	119	Medium	3	42	14	setor tunai	ganti kartu dan daftar 	15.10	14.50
+126	14/07/2021	Kopo	BAA	2	261	131	Medium	3	68	23	Setor dan tarik tunai, multipayment	Ganti atm, buka rekening	15.20	15.50
+127	14/07/2021	Siliwangi	BAA	2	210	105	Medium	4	30	8	Setor dan penarikan	Penggantian Kartu Debit	14.50	14.45
+128	14/07/2021	Sumbersari	BAA	3	387	129	Medium	3	75	25	Setoran tunai	Penggantian kartu atm	15.00	15.15
+129	14/07/2021	Burangrang	BAA	2	241	121	Medium	1	32	32	Setoran tunai dan Pembayaran 	Ganti kartu ATM	15.20	15.30
+130	14/07/2021	Mohamad Toha	BAA	2	231	116	Medium	2	36	18	Setoran Tunai	Ganti Kartu ATM	15.15	15.00
+131	14/07/2021	Soreang	BAA	3	320	107	Medium	3	145	48	Setor tunai	Ganti kartu	15.10	15.00
+132	14/07/2021	Dayeuhkolot	BAA	2	228	114	Medium	2	75	38	setor tunai	penggantian kartu	15.30	15.00
+133	14/07/2021	Pasir Kaliki	BAA	2	122	61	Under	1	10	10	Setor tunai	Ganti kartu atm	14.48	14.30
+134	14/07/2021	Majalaya	BAA	3	278	93	Under	3	39	13	Setor	Buka rekening	15.30	15.20
+135	14/07/2021	Banjaran	BAA	2	250	125	Medium	2	100	50	Setoran	Pembukaan rek	16.15	16.15
+136	14/07/2021	Pangalengan	BAA	1	130	130	Medium	1	35	35	Setoran tunai	Penggantian kartu	15.30	15.30
+137	15/07/2021	Asia Afrika Utara	BAA	5	470	94	Under	4	55	14	setor	ganti kartu 	15.00	15.55
+138	15/07/2021	Soekarno-Hatta	BAA	4	104	26	Under	4	64	16	Setoran	Ganti Kartu	15.30	15.30
+139	15/07/2021	Binacitra	BAA	2	454	227	Over	2	28	14	Setor tunai	Penggantian kartu	15.05	15.00
+140	15/07/2021	Metro	BAA	3	390	130	Medium	2	71	36	Setor tunai	ganti kartu 	15.00	15.00
+141	15/07/2021	Kiara Condong	BAA	2	254	127	Medium	2	47	24	setor tunai	ganti kartu 	15.05	14.45
+142	15/07/2021	Kopo	BAA	2	260	130	Medium	3	81	27	Setor,tarik,trf,pembayaran multi payment	Buka rekening, ganti atm	15.45	16.00
+143	15/07/2021	Siliwangi	BAA	2	185	93	Under	4	29	7	Setor dan tarik	Penggantian Kartu Debit	15.23	14.46
+144	15/07/2021	Sumbersari	BAA	3	320	107	Medium	3	68	23	Setor tunai	Ganti kartu atm	15.00	15.10
+145	15/07/2021	Burangrang	BAA	2	205	103	Medium	1	33	33	Setoran tunai dan pembayaran	Ganti ATM	15.00	15.00
+146	15/07/2021	Mohamad Toha	BAA	2	198	99	Under	2	12	6	Setoran Tunai	Ganti kartu ATM	14.30	14.40
+147	15/07/2021	Soreang	BAA	3	310	103	Medium	3	3	1	Setor tunai	Buka rekening	15.45	15.20
+148	15/07/2021	Dayeuhkolot	BAA	2	216	108	Medium	2	81	41	setor tunai	penggantian kartu	15.00	16.45
+149	15/07/2021	Pasir Kaliki	BAA	2	128	64	Under	1	12	12	Setor tunai	Ganti kartu atm	14.30	14.15
+150	15/07/2021	Majalaya	BAA	3	325	108	Medium	3	51	17	Setor	Buka rekening dan BSU	15.45	16.00
+151	15/07/2021	Banjaran	BAA	2	250	125	Medium	3	100	33	Setoran	Ganti atm	16.29	16.29
+152	15/07/2021	Pangalengan	BAA	1	143	143	Medium	1	35	35	Setoran tunai	Ganti kartu	15.00	15.00
+153	16/07/2021	Asia Afrika Utara	BAA	5	461	92	Under	4	50	13	setor	ganti kartu	15.20	15.30
+154	16/07/2021	Soekarno-Hatta	BAA	4	95	24	Under	5	71	14	Setor	Ganti kartu	15.00	15.00
+155	16/07/2021	Binacitra	BAA	3	550	183	Over	3	25	8	setoran	ganti kartu	15.00	15.00
+156	16/07/2021	Metro	BAA	3	400	133	Medium	3	105	35	Setoran perusahaan	Ganti kartu	16.30	16.30
+157	16/07/2021	Kiara Condong	BAA	2	232	116	Medium	2	47	24	setor tunai	ganti kartu atm 	14.55	14.45
+158	16/07/2021	Kopo	BAA	2	280	140	Medium	3	69	23	Setor tunai, tarik tunai, pinbuk warkat	Buka rek, ganti atm	15.30	16.00
+159	16/07/2021	Siliwangi	BAA	2	252	126	Medium	4	42	11	Setoran dan penarikan	Penggantian Kartu Debit	14.51	14.48
+160	16/07/2021	Sumbersari	BAA	3	75	25	Under	3	60	20	Setoran tunai	Penggantian kartu 	15.00	15.00
+161	16/07/2021	Burangrang	BAA	2	225	113	Medium	2	35	18	Setoran tunai 	Penggantian kartu dan buka blokir	16.00	16.00
+162	16/07/2021	Mohamad Toha	BAA	2	252	126	Medium	2	46	23	Setoran Tunai	Ganti Kartu ATM	15.05	14.40
+163	16/07/2021	Soreang	BAA	3	304	101	Medium	3	126	42	Setoran	Buka rekening	14.30	14.25
+164	16/07/2021	Dayeuhkolot	BAA	2	230	115	Medium	3	85	28	setor tunai	penggantian kartu	15.30	16.30
+165	16/07/2021	Pasir Kaliki	BAA	2	109	55	Under	1	7	7	Setor tunai	Ganti atm	14.54	14.30
+166	16/07/2021	Majalaya	BAA	3	320	107	Medium	3	49	16	Setor	Ganti kartu	15.30	15.15
+167	16/07/2021	Banjaran	BAA	2	250	125	Medium	3	87	29	Setoran	Ganti atm	15.00	15.00
+168	16/07/2021	Pangalengan	BAA	1	130	130	Medium	1	35	35	Setoran tunai	Penggantian kartu	15.00	15.00
+169	19/07/2021	Asia Afrika Utara	BAA	5	737	147	Medium	4	71	18	Trik, setor, Skn, RTGS, TT	Ganti kartu	16.00	15.30
+170	19/07/2021	Soekarno-Hatta	BAA	5	128	26	Under	5	83	17	Setor	Ganti kartu 	16.00	16.00
+171	19/07/2021	Binacitra	BAA	3	388	129	Medium	3	45	15	setoran	ganti kartu	15.00	15.00
+172	19/07/2021	Metro	BAA	3	450	150	Optimum	3	110	37	Setoran SPBU	Ganti kartu	16.00	16.00
+173	19/07/2021	Kiara Condong	BAA	2	240	120	Medium	2	45	23	setor tunai	ganti kartu	15.05	14.45
+174	19/07/2021	Kopo	BAA	2	76	38	Under	3	2	1	setoran tunai, kliring dan payment poin	pencairan deposito dan ganti kartu	16.05	15.15
+175	19/07/2021	Siliwangi	BAA	2	302	151	Optimum	4	51	13	Setoran dan Kliring	Penggantian Kartu Debit	14.52	14.45
+176	19/07/2021	Sumbersari	BAA	3	83	28	Under	3	87	29	Setor tunai	Ganti kartu atm	15.30	16.05
+177	19/07/2021	Burangrang	BAA	3	305	102	Medium	2	50	25	Setoran tunai	Penggantian kartu	15.00	15.00
+178	19/07/2021	Mohamad Toha	BAA	2	273	137	Medium	2	45	23	Setoran Tunai	Ganti kartu ATM	15.02	14.59
+179	19/07/2021	Soreang	BAA	3	320	107	Medium	3	128	43	Setor	Ganti kartu	15.20	15.30
+180	19/07/2021	Dayeuhkolot	BAA	2	230	115	Medium	3	85	28	setor tunai	penggantian kartu	15.30	16.30
+181	19/07/2021	Pasir Kaliki	BAA	2	166	83	Under	2	27	14	Setoran	Ganti kartu	14.50	14.40
+182	19/07/2021	Majalaya	BAA	3	445	148	Medium	2	48	24	Setor	Ganti kartu	16.20	15.10
+183	19/07/2021	Banjaran	BAA	2	250	125	Medium	3	80	27	Setoran	Buka rek	16.09	16.09
+184	19/07/2021	Pangalengan	BAA	1	230	230	Over	1	36	36	Setoran tunai	Penggantian kartu	15.30	15.00
+185	21/07/2021	Asia Afrika Utara	BAA	5	541	108	Medium	4	40	10	SKN, setor tunai	Ganti kartu	16.30	15.45
+186	21/07/2021	Soekarno-Hatta	BAA	5	79	16	Under	5	69	14	Setor	Ganti kartu	15.05	15.05
+187	21/07/2021	Binacitra	BAA	2	210	105	Medium	2	27	14	Setor tunai	Ganti kartu	15.00	15.30
+188	21/07/2021	Metro	BAA	3	291	97	Under	2	75	38	Setoran spbu	Ganti kartu	16.00	16.00
+189	21/07/2021	Kiara Condong	BAA	2	224	112	Medium	2	52	26	setor tunai 	ganti kartu	15.02	14.52
+190	21/07/2021	Kopo	BAA	2	250	125	Medium	3	80	27	Setor, tarik tunai dan trf pinbuk	Ganti atm, buka rek, pin atm terblokir	15.15	16.00
+191	21/07/2021	Siliwangi	BAA	2	187	94	Under	4	26	7	Setor dan tarik tunai	Penggantian kartu debit	14.55	14.42
+192	21/07/2021	Sumbersari	BAA	3	280	93	Under	3	66	22	Setoran tunai	Penggantian kartu atm	15.50	15.45
+193	21/07/2021	Burangrang	BAA	2	126	63	Under	2	40	20	Setoran tunai 	Ganti kartu	15.00	15.00
+194	21/07/2021	Mohamad Toha	BAA	2	203	102	Medium	2	30	15	Setoran Tunai	Ganti kartu ATM	14.55	14.48
+195	21/07/2021	Soreang	BAA	3	403	134	Medium	3	126	42	Setoran dan advis	Ganti kartu dan buka rekening	15.35	15.24
+196	21/07/2021	Dayeuhkolot	BAA	2	221	111	Medium	3	80	27	setor tunai	penggantian kartu	15.00	15.30
+197	21/07/2021	Pasir Kaliki	BAA	2	150	75	Under	2	15	8	Setoran	Ganti kartu	14.40	14.40
+198	21/07/2021	Majalaya	BAA	3	296	99	Under	3	47	16	Setor	Buka rekening	15.45	15.30
+199	21/07/2021	Banjaran	BAA	2	200	100	Medium	2	2	1	Setoran	Ganti atm	15.30	15.30
+200	21/07/2021	Pangalengan	BAA	1	154	154	Optimum	1	30	30	Setoran tunai	Ganti kartu	14.55	14.50
+201	22/07/2021	Asia Afrika Utara	BAA	5	401	80	Under	3	45	15	Setoran tunai	Ganti kartu, , buka blokir	15.05	15.30
+202	22/07/2021	Soekarno-Hatta	BAA	4	90	23	Under	5	66	13	Setor	Ganti kartu	15.00	15.00
+203	22/07/2021	Binacitra	BAA	3	240	80	Under	3	31	10	setoran	ganti kartu	15.00	15.00
+204	22/07/2021	Metro	BAA	3	300	100	Medium	2	100	50	Setor	Ganti kartu	15.30	15.30
+205	22/07/2021	Kiara Condong	BAA	2	220	110	Medium	2	43	22	setor tunai	ganti kartu	14.55	14.40
+206	22/07/2021	Kopo	BAA	2	260	130	Medium	3	79	26	Setor tunai, tarik tunai, multi payment, pinbuk	Ganti atm, cetak rk, buka rek, proses tutup rek ahli waris	15.20	15.50
+207	22/07/2021	Siliwangi	BAA	2	154	77	Under	4	33	8	Setoran	Penggantian Kartu Debit	14.52	14.50
+208	22/07/2021	Sumbersari	BAA	3	83	28	Under	3	62	21	Setor tunai	Ganti kartu atm	14.55	16.00
+209	22/07/2021	Burangrang	BAA	2	196	98	Under	1	39	39	Setoran tunai 	Ganti ATM	15.00	15.00
+210	22/07/2021	Mohamad Toha	BAA	2	242	121	Medium	2	38	19	Setoran Awal	Ganti Kartu ATM	14.58	14.50
+211	22/07/2021	Soreang	BAA	3	302	101	Medium	3	135	45	Setor tunai	Ganti kartu buka rekening	15.20	15.45
+212	22/07/2021	Dayeuhkolot	BAA	2	193	97	Under	2	65	33	setor tunai	penggantian kartu	15.30	16.00
+213	22/07/2021	Pasir Kaliki	BAA	2	95	48	Under	1	15	15	Setor tunai	Ganti atm	14.45	14.30
+214	22/07/2021	Majalaya	BAA	3	235	78	Under	3	47	16	Setor	Ganti kartu	15.15	15.30
+215	22/07/2021	Banjaran	BAA	2	189	95	Under	3	77	26	Setoran	Buka rekening	15.20	15.20
+216	22/07/2021	Pangalengan	BAA	1	152	152	Optimum	1	40	40	Setor tunai	Buka rekening	15.20	15.00
+217	23/07/2021	Asia Afrika Utara	BAA	5	320	64	Under	4	40	10	Skn dan setoran	Ganti kartu 	15.20	14.45
+218	23/07/2021	Soekarno-Hatta	BAA	4	102	26	Under	5	62	12	Setor	Ganti kartu	15.00	15.00
+219	23/07/2021	Binacitra	BAA	3	270	90	Under	3	37	12	setoran	ganti kartu	15.30	15.30
+220	23/07/2021	Metro	BAA	3	500	167	Optimum	3	75	25	Setoran spbu	Ganti kartu, aktivasi 	16.00	16.00
+221	23/07/2021	Kiara Condong	BAA	2	333	167	Optimum	2	46	23	setor tunai	ganti kartu	15.10	14.45
+222	23/07/2021	Kopo	BAA	2	240	120	Medium	3	50	17	Setor,tarik tunai, pinbuk,multipayment	Ganti atm,buka rek,cetak rk	15.05	15.25
+223	23/07/2021	Siliwangi	BAA	2	245	123	Medium	4	40	10	Setor tarik 	Penggantian Kartu Debt	14.45	14.37
+224	23/07/2021	Sumbersari	BAA	3	78	26	Under	3	65	22	Setor tunai	Ganti kartu atm	15.00	15.30
+225	23/07/2021	Burangrang	BAA	2	186	93	Under	2	26	13	Setoran dan pembayaran multipayment	Ganti kartu ATM	15.00	15.00
+226	23/07/2021	Mohamad Toha	BAA	2	248	124	Medium	2	49	25	Setoran Tunai	Ganti Kartu ATM	14.58	14.55
+227	23/07/2021	Soreang	BAA	3	350	117	Medium	3	109	36	Setoran dan advis	Ganti kartu	15.00	15.00
+228	23/07/2021	Dayeuhkolot	BAA	2	296	148	Medium	2	80	40	setor tunai	penggantian kartu	15.30	16.45
+229	23/07/2021	Pasir Kaliki	BAA	2	123	62	Under	1	15	15	Setor tunai	Ganti atm	14.45	15.00
+230	23/07/2021	Majalaya	BAA	3	335	112	Medium	3	52	17	Setor	Buka rekening	16.00	15.45
+231	23/07/2021	Banjaran	BAA	2	250	125	Medium	2	70	35	Penarikan	Ganti kartu atm	16.15	15.45
+232	23/07/2021	Pangalengan	BAA	1	150	150	Optimum	1	29	29	Tarik tunai	Pembuatan rekening	15.00	15.00
+233	26/07/2021	Asia Afrika Utara	BAA	4	398	100	Under	4	48	12	Setoran tunai jumlah besar, penarikan, penarikan vallas	M-banking dan ganti kartu	15.35	15.15
+234	26/07/2021	Asia Afrika Selatan	BAA	4	552	138	Medium	4	54	14	Skn	Buka rekening, ganti kartu	16.00	15.30
+235	26/07/2021	Soekarno-Hatta	BAA	4	130	33	Under	5	72	14	Setor	Ganti atm	15.00	15.00
+236	26/07/2021	Binacitra	BAA	3	276	92	Under	3	42	14	setoran	ganti kartu	15.00	15.00
+237	26/07/2021	Metro	BAA	3	521	174	Over	3	80	27	Setoran spbu	Ganti atm, aktivasi 	16.30	16.30
+238	26/07/2021	Kiara Condong	BAA	2	447	224	Over	2	48	24	setor dan tarik tunai	ganti kartu 	15.30	14.45
+239	26/07/2021	Kopo	BAA	2	310	155	Optimum	3	70	23	Trf pinbuk, pencairan cek,setor tunai,tarik tunai	Ganti atm, atm tertelan, buka rek	15.15	15.25
+240	26/07/2021	Siliwangi	BAA	2	203	102	Medium	4	45	11	Setoran dan penarikan	Penggantian Kartu Debit	14.52	14.38
+241	26/07/2021	Sumbersari	BAA	3	101	34	Under	3	111	37	Setor tunai	Penggantian kartu atm	15.10	15.20
+242	26/07/2021	Burangrang	BAA	2	253	127	Medium	2	29	15	Setoran tunai 	Ganti ATM	15.50	15.00
+243	26/07/2021	Mohamad Toha	BAA	2	279	140	Medium	2	49	25	Setoran Tunai	Ganti kartu ATM	15.02	14.58
+244	26/07/2021	Soreang	BAA	3	302	101	Medium	3	133	44	Setor tunai	Ganti kartu	15.10	15.00
+245	26/07/2021	Dayeuhkolot	BAA	3	271	90	Under	3	85	28	setor tunai	penggantian kartu	15.15	16.20
+246	26/07/2021	Pasir Kaliki	BAA	2	194	97	Under	2	21	11	Setor	Ganti kartu	14.30	14.30
+247	26/07/2021	Majalaya	BAA	3	351	117	Medium	3	52	17	Setor	Ganti kartu	16.10	15.30
+248	26/07/2021	Banjaran	BAA	3	250	83	Under	3	85	28	Setoran	Ganti atm	16.00	16.00
+249	26/07/2021	Pangalengan	BAA	1	185	185	Over	1	44	44	Setoran tunai	Buka rekening	16.00	15.30
+250	27/07/2021	Asia Afrika Utara	BAA	4	396	99	Under	4	55	14	Setoran tunai, skn	Ganti kartu, pencairan ahli waris, CRM	15.05	15.00
+251	27/07/2021	Asia Afrika Selatan	BAA	3	411	137	Medium	4	29	7	Setor tarik	Ganti kartu	15.00	15.00
+252	27/07/2021	Soekarno-Hatta	BAA	4	110	28	Under	4	55	14	Setor	Ganti kartu	16.00	16.00
+253	27/07/2021	Binacitra	BAA	3	150	50	Under	3	27	9	setoran	ganti kartu	15.00	15.00
+254	27/07/2021	Metro	BAA	3	512	171	Over	3	80	27	Setoran SPBU	Ganti kartu, aktivasi 	16.00	16.00
+255	27/07/2021	Kiara Condong	BAA	2	211	106	Medium	2	72	36	setor tunai	ganti kartu dan buka rekening 	15.10	14.50
+256	27/07/2021	Kopo	BAA	2	350	175	Over	3	68	23	Payroll many to many, setor dan tarik tunai,pinbuk	Buka rek, ganti atm	15.15	15.40
+257	27/07/2021	Siliwangi	BAA	2	233	117	Medium	4	41	10	Setoran dan transaksi menggunakan giro	Penggantian Kartu Debit	14.54	14.38
+258	27/07/2021	Sumbersari	BAA	3	105	35	Under	3	65	22	Setor tunai 	Penggantian kartu atm	15.15	15.45
+259	27/07/2021	Burangrang	BAA	2	228	114	Medium	2	57	29	Setoran 	Ganti ATM	15.00	15.00
+260	27/07/2021	Mohamad Toha	BAA	2	232	116	Medium	2	47	24	Setoran Tunai	Ganti kartu ATM	15.02	14.55
+261	27/07/2021	Soreang	BAA	3	303	101	Medium	3	70	23	Setor dan advis	Ganti kartu	14.50	15.00
+262	27/07/2021	Dayeuhkolot	BAA	3	194	65	Under	2	73	37	setor tunai	penggantian kartu dan pendaftaran 	15.00	15.45
+263	27/07/2021	Pasir Kaliki	BAA	2	197	99	Under	2	11	6	Setoran dan pinbuk	Ganti kartu dan aktivasi 	14.15	14.30
+264	27/07/2021	Majalaya	BAA	3	293	98	Under	3	47	16	Setor	Ganti kartu	15.05	15.00
+265	27/07/2021	Banjaran	BAA	2	250	125	Medium	3	100	33	Setoran	Buka rekening	16.00	16.00
+266	27/07/2021	Pangalengan	BAA	1	150	150	Optimum	1	35	35	Setoran tunai	Ganti kartu	15.00	15.30
+267	28/07/2021	Asia Afrika Utara	BAA	4	399	100	Under	4	55	14	Setoran tunai, skn, TT	Ganti kartu,  	14.58	15.15
+268	28/07/2021	Asia Afrika Selatan	BAA	3	457	152	Optimum	4	39	10	Skn	Ganti kartu	15.20	15.00
+269	28/07/2021	Soekarno-Hatta	BAA	5	150	30	Under	5	55	11	Setor	Ganti kartu	15.10	15.10
+270	28/07/2021	Binacitra	BAA	3	270	90	Under	3	26	9	setoran	ganti kartu	15.00	15.00
+271	28/07/2021	Metro	BAA	3	366	122	Medium	2	75	38	Setor	Kartu atm	15.00	15.30
+272	28/07/2021	Kiara Condong	BAA	2	201	101	Medium	2	40	20	setor tunai	ganti kartu	14.50	15.05
+273	28/07/2021	Kopo	BAA	2	350	175	Over	3	70	23	Transaksi pinbuk, payroll, setor dan tarik tunai	Ganti atm, buka rek, cetak Rk	15.20	15.40
+274	28/07/2021	Siliwangi	BAA	2	237	119	Medium	4	36	9	Setoran dan SKN	Penggantian Kartu Debit	14.52	14.44
+275	28/07/2021	Sumbersari	BAA	3	75	25	Under	3	55	18	Setor tunai 	Penggantian kartu atm	15.30	15.40
+276	28/07/2021	Burangrang	BAA	3	193	64	Under	2	33	17	Setoran tunai 	Ganti ATM 	15.00	15.00
+277	28/07/2021	Mohamad Toha	BAA	2	240	120	Medium	2	38	19	Setoran Tunai	Ganti Kartu ATM	14.50	14.45
+278	28/07/2021	Soreang	BAA	3	300	100	Medium	3	103	34	Setoran	Ganti kartu buka rekening	15.02	15.10
+279	28/07/2021	Dayeuhkolot	BAA	3	258	86	Under	3	67	22	setor tunai	penggantian kartu dan pendaftaran 	15.15	15.30
+280	28/07/2021	Pasir Kaliki	BAA	2	103	52	Under	1	16	16	Setor tunai	Ganti kartu atm	14.30	14.30
+281	28/07/2021	Majalaya	BAA	3	378	126	Medium	3	48	16	Setor dan advis	Buka rekening	15.45	15.30
+282	28/07/2021	Banjaran	BAA	2	165	83	Under	2	66	33	Setoran	Buka rek	15.15	15.15
+283	28/07/2021	Pangalengan	BAA	1	155	155	Optimum	1	25	25	Setoran tunai	Ganti kartu	15.00	15.00
+284	29/07/2021	Asia Afrika Utara	BAA	4	334	84	Under	4	42	11	Penarikan tunai, setoran tunai dan transfer	Ganti kartu dan CRM	14.55	14.50
+285	29/07/2021	Asia Afrika Selatan	BAA	3	420	140	Medium	3	40	13	Transfer dan setoran tunai	Buka rekening	16.15	16.10
+286	29/07/2021	Soekarno-Hatta	BAA	4	93	23	Under	5	67	13	Setor	Ganti kartu	15.45	15.45
+287	29/07/2021	Binacitra	BAA	3	260	87	Under	3	25	8	setoran	ganti kartu	15.00	15.00
+288	29/07/2021	Metro	BAA	3	310	103	Medium	3	95	32	Setor	Kartu atm	15.30	15.30
+289	29/07/2021	Kiara Condong	BAA	2	384	192	Over	2	65	33	setor tunai	ganti kartu	15.10	14.40
+290	29/07/2021	Kopo	BAA	2	290	145	Medium	3	72	24	Payroll, tarik dan setor tunai, pinbuk, multi payment	Cetak Rk, buka rek dan mtr, daftar mandol,ganti atm	15.15	15.30
+291	29/07/2021	Siliwangi	BAA	2	257	129	Medium	4	43	11	Setoran dan SKN	Penggantian Kartu Debit	14.55	14.41
+292	29/07/2021	Sumbersari	BAA	3	63	21	Under	3	78	26	Setor tunai	Penggantian kartu atm	15.45	15.30
+293	29/07/2021	Burangrang	BAA	3	193	64	Under	2	33	17	Setoran tunai 	Ganti ATM 	15.00	15.00
+294	29/07/2021	Mohamad Toha	BAA	2	255	128	Medium	2	44	22	Setoran Tunai	Ganti Kartu ATM	14.58	15.08
+295	29/07/2021	Soreang	BAA	3	304	101	Medium	3	85	28	Setoran	Ganti atm buka rekening	15.00	15.18
+296	29/07/2021	Dayeuhkolot	BAA	3	263	88	Under	3	70	23	setor tunai	penggantian kartu	15.30	16.00
+297	29/07/2021	Pasir Kaliki	BAA	2	110	55	Under	1	20	20	Setor tunai	Ganti atm	14.30	14.30
+298	29/07/2021	Majalaya	BAA	3	310	103	Medium	3	47	16	Setor dan advis	Ganti kartu	16.11	15.45
+299	29/07/2021	Banjaran	BAA	2	185	93	Under	3	100	33	Setoran	Ganti atm	16.00	16.00
+300	29/07/2021	Pangalengan	BAA	1	167	167	Optimum	1	30	30	Setoran tunai	Ganti kartu	15.00	15.00
+301	30/07/2021	Asia Afrika Utara	BAA	4	576	144	Medium	4	40	10	TT , Skn , tarik tunai	Pembukaan rekening , ganti kartu	15.55	14.35
+302	30/07/2021	Asia Afrika Selatan	BAA	3	803	268	Over	3	45	15	Transfer dan setor tunai	Ganti kartu	15.45	15.45
+303	30/07/2021	Soekarno-Hatta	BAA	4	493	123	Medium	5	65	13	Setor tunai	Penggantian kartu 	15.00	16.00
+304	30/07/2021	Binacitra	BAA	3	340	113	Medium	3	32	11	setoran	ganti kartu	16.00	16.00
+305	30/07/2021	Metro	BAA	3	515	172	Over	3	85	28	Setoran spbu	Ganti kartu, pendaftaran 	16.00	16.00
+306	30/07/2021	Kiara Condong	BAA	2	287	144	Medium	2	65	33	setor tunai 	ganti kartu 	15.30	15.10
+307	30/07/2021	Kopo	BAA	3	490	163	Optimum	3	79	26	Payroll, setor tarik tunai, pinbuk	Buka rek, oob, mtr, ganti atm, cetak rk	15.25	15.45
+308	30/07/2021	Siliwangi	BAA	2	287	144	Medium	4	27	7	Setoran dan SKN	Penggantian Kartu Debit	14.51	14.45
+309	30/07/2021	Sumbersari	BAA	2	77	39	Under	3	82	27	Setor tunai	Penggantian kartu atm	15.30	16.00
+310	30/07/2021	Burangrang	BAA	2	428	214	Over	2	40	20	Setoran tunai 	Ganti kartu	16.00	15.30
+311	30/07/2021	Mohamad Toha	BAA	2	258	129	Medium	2	40	20	Setoran Tunai	Ganti Kartu ATM	14.50	15.05
+312	30/07/2021	Soreang	BAA	3	295	98	Under	3	71	24	Setor	Buka rekening	14.45	15.00
+313	30/07/2021	Dayeuhkolot	BAA	3	352	117	Medium	3	3	1	setor tunai	penggantian kartu dan daftar 	16.00	17.00
+314	30/07/2021	Pasir Kaliki	BAA	2	121	61	Under	1	15	15	Setoran tunai	Ganti kartu atm	14.30	14.30
+315	30/07/2021	Majalaya	BAA	3	406	135	Medium	3	45	15	Setor dan advis	Ganti kartu	15.10	15.00
+316	30/07/2021	Banjaran	BAA	3	250	83	Under	2	100	50	Setoran	Buka rekening	16.30	16.30
+317	30/07/2021	Pangalengan	BAA	1	190	190	Over	1	26	26	Setoran tunai	Ganti kartu	15.00	15.00
+318	02/08/2021	Asia Afrika Utara	BAA	4	600	150	Optimum	4	91	23	Setor, tarik, skn, TT pinbuk	Ganti kartu, buka rekening,  	16.15	15.39
+319	02/08/2021	Soekarno-Hatta	BAA	5	90	18	Under	5	52	10	Setor	Ganti kartu	16.00	16.00
+320	02/08/2021	Binacitra	BAA	3	340	113	Medium	2	48	24	setoran	ganti kartu	15.00	15.45
+321	02/08/2021	Metro	BAA	4	521	130	Medium	3	3	1	Setoran dari cabang2 tutup	Pendaftaran , ganti kartu	16.25	16.00
+322	02/08/2021	Kiara Condong	BAA	2	411	206	Over	2	80	40	setor tunai	ganti kartu 	15.30	15.15
+323	02/08/2021	Siliwangi	BAA	2	410	205	Over	4	50	13	Setor dan penarikan	Penggantian Kartu Debit	14.55	15.28
+324	02/08/2021	Alun-Alun	BAA	3	299	100	Under	3	34	11	Setor tunai , skn	Ganti kartu	15.00	15.00
+325	02/08/2021	Sumbersari	BAA	3	89	30	Under	3	79	26	Setor tunai	Penggantian kartu atm	15.20	15.15
+326	02/08/2021	Burangrang	BAA	2	323	162	Optimum	2	54	27	setoran	Penggantian ATM	16.00	15.00
+327	02/08/2021	Mohamad Toha	BAA	2	281	141	Medium	2	66	33	setor tarik	ganti kartu	15.00	16.00
+328	02/08/2021	Soreang	BAA	3	350	117	Medium	3	81	27	Setor	Bukan rekening ganti kartu	15.00	15.15
+329	02/08/2021	Taman Kopo Indah	BAA	3	364	121	Medium	3	72	24	Setoran tunai	Ganti atm, buka blokir atm	15.30	15.30
+330	02/08/2021	Dayeuhkolot	BAA	3	266	89	Under	3	85	28	setor tunai	penggantian kartu dan daftar 	15.30	16.30
+331	02/08/2021	Pasir Kaliki	BAA	2	360	180	Over	1	26	26	Setoran tunai	Ganti atm	15.00	15.00
+332	02/08/2021	Majalaya	BAA	3	400	133	Medium	3	52	17	Setor	Ganti kartu	15.15	15.00
+333	02/08/2021	Banjaran	BAA	3	200	67	Under	3	109	36	Setoran	Buka rekening	16.00	16.00
+334	02/08/2021	Pangalengan	BAA	1	190	190	Over	1	50	50	Setoran tunai	Ganti kartu	15.00	15.30
+335	03/08/2021	Asia Afrika Utara	BAA	4	470	118	Medium	3	61	20	setoran	ganti kartu	15.30	16.05
+336	03/08/2021	Soekarno-Hatta	BAA	3	458	153	Optimum	4	66	17	Setor tunai	Penggantian kartu	16.00	15.30
+337	03/08/2021	Binacitra	BAA	3	265	88	Under	3	29	10	setoran	ganti kartu	15.00	15.00
+338	03/08/2021	Metro	BAA	3	326	109	Medium	2	80	40	Setoran	Ganti kartu, daftar 	16.00	15.30
+339	03/08/2021	Kiara Condong	BAA	2	344	172	Over	2	73	37	setor tunai	ganti kartu	15.05	15.20
+340	03/08/2021	Buah Batu	BAA	3	273	91	Under	3	63	21	setoran	penggantian kartu	15.30	15.30
+341	03/08/2021	Siliwangi	BAA	2	275	138	Medium	4	50	13	Setoran dan penarikan	Penggantian Kartu Debit	14.45	14.52
+342	03/08/2021	Alun-Alun	BAA	3	174	58	Under	3	18	6	Setor tarik	Ganti kartu, buka rekening	15.00	15.00
+343	03/08/2021	Sumbersari	BAA	3	78	26	Under	3	82	27	Setor tunai	Ganti kartu atm	15.00	15.10
+344	03/08/2021	Burangrang	BAA	2	245	123	Medium	1	46	46	Pembayaran VA dan setoran tunai	Ganti ATM	15.00	15.00
+345	03/08/2021	Mohamad Toha	BAA	2	263	132	Medium	2	60	30	Setoran Tunai	Ganti Kartu ATM	15.15	15.20
+346	03/08/2021	Soreang	BAA	3	350	117	Medium	3	80	27	Setor	Buka rekening	15.00	15.30
+347	03/08/2021	Taman Kopo Indah	BAA	3	290	97	Under	3	70	23	Setoran, billpayment, pinbuk	Buka rekening,,Indikasi penipuan	15.30	15.30
+348	03/08/2021	Dayeuhkolot	BAA	3	267	89	Under	3	86	29	setor tunai	buka rekening dan daftar 	15.30	16.55
+349	03/08/2021	Pasir Kaliki	BAA	2	204	102	Medium	1	15	15	Setoran tunai	Ganti atm	15.00	15.00
+350	03/08/2021	Majalaya	BAA	3	332	111	Medium	3	38	13	Setor	Buka rekening	15.45	15.30
+351	03/08/2021	Banjaran	BAA	2	185	93	Under	3	100	33	Setoran	Buka rek	16.30	16.30
+352	03/08/2021	Pangalengan	BAA	1	140	140	Medium	1	45	45	Setoran tunai	Ganti kartu	15.00	15.30
+353	04/08/2021	Asia Afrika Utara	BAA	4	563	141	Medium	4	44	11	setoran	ganti atm	15.00	15.30
+354	04/08/2021	Soekarno-Hatta	BAA	3	419	140	Medium	4	50	13	Setor tunai	Penggantian kartu atm	15.30	15.30
+355	04/08/2021	Binacitra	BAA	3	240	80	Under	3	30	10	setoran	ganti kartu	15.00	15.00
+356	04/08/2021	Metro	BAA	3	464	155	Optimum	2	65	33	Setor	Kartu atm	15.00	15.15
+357	04/08/2021	Kiara Condong	BAA	2	182	91	Under	2	46	23	setor tunai	ganti kartu dan daftar 	14.45	15.05
+358	04/08/2021	Buah Batu	BAA	3	273	91	Under	4	56	14	setor - tarik	ganti kartu	15.15	15.00
+359	04/08/2021	Siliwangi	BAA	2	257	129	Medium	4	50	13	Penarikan dan pencairan cek	Penggantian Kartu Debit	14.37	14.51
+360	04/08/2021	Alun-Alun	BAA	3	110	37	Under	3	19	6	Setor tunai	Ganti Kartu	15.00	15.00
+361	04/08/2021	Sumbersari	BAA	3	67	22	Under	3	79	26	Setor tunai	Ganti kartu atm	15.00	15.10
+362	04/08/2021	Burangrang	BAA	2	297	149	Medium	1	33	33	Pembayaran multipayment	Penggantian ATM	15.00	15.00
+363	04/08/2021	Mohamad Toha	BAA	2	247	124	Medium	2	49	25	Setoran Tunai	Ganti kartu ATM	15.05	15.30
+364	04/08/2021	Soreang	BAA	3	320	107	Medium	3	90	30	Setoran	Buka rekening	15.00	15.12
+365	04/08/2021	Taman Kopo Indah	BAA	3	387	129	Medium	3	67	22	Setor tunai	Buka rekening, ganti atm	16.10	16.05
+366	04/08/2021	Dayeuhkolot	BAA	3	211	70	Under	3	54	18	setor tunai	pendaftaran 	15.00	16.00
+367	04/08/2021	Pasir Kaliki	BAA	2	187	94	Under	1	20	20	setor tunai	ganti atm	14.30	14.30
+368	04/08/2021	Majalaya	BAA	3	241	80	Under	3	38	13	Setor	Buka rekening	15.35	15.35
+369	04/08/2021	Banjaran	BAA	2	175	88	Under	3	100	33	Setoran	Buka rekening	16.00	16.00
+370	04/08/2021	Pangalengan	BAA	1	136	136	Medium	1	36	36	Setoran tunai	Ganti kartu	15.30	15.30
+371	05/08/2021	Asia Afrika Utara	BAA	4	603	151	Optimum	4	60	15	Transfer Antar Bank	Penggantian kartu 	16.50	15.15
+372	05/08/2021	Soekarno-Hatta	BAA	3	796	265	Over	3	45	15	Setor tunai	Buka rekening	15.00	15.00
+373	05/08/2021	Binacitra	BAA	3	260	87	Under	3	16	5	setoran	ganti kartu	15.00	15.00
+374	05/08/2021	Metro	BAA	3	540	180	Over	3	80	27	setoran tunai	ganti kartu	15.00	15.00
+375	05/08/2021	Kiara Condong	BAA	2	314	157	Optimum	2	40	20	setor tunai	ganti kartu	15.30	14.40
+376	05/08/2021	Buah Batu	BAA	3	173	58	Under	3	47	16	setor tarik	ganti kartu	15.00	15.00
+377	05/08/2021	Siliwangi	BAA	2	205	103	Medium	4	40	10	Penarikan dan pencairan cek	Penggantian Kartu Debit	14.42	14.55
+378	05/08/2021	Alun-Alun	BAA	3	228	76	Under	3	25	8	Setor tarik dan skn	Ganti kartu, buka rekening,	15.00	15.00
+379	05/08/2021	Sumbersari	BAA	3	68	23	Under	3	74	25	Setor tunai	Ganti kartu atm	15.00	15.15
+380	05/08/2021	Jamika	BAA	2	163	82	Under	2	47	24	Setor Tunai, Multipayment	Ganti Kartu ATM	14.50	15.15
+381	05/08/2021	Burangrang	BAA	2	244	122	Medium	2	24	12	Setoran 	Ganti ATM	15.00	15.00
+382	05/08/2021	Mohamad Toha	BAA	2	270	135	Medium	2	25	13	Setoran Tunai	Ganti Kartu ATM	14.50	14.45
+383	05/08/2021	Soreang	BAA	3	302	101	Medium	3	112	37	Setoran	Ganti kartu dan buka rekening	15.00	15.00
+384	05/08/2021	Taman Kopo Indah	BAA	3	87	29	Under	3	61	20	Pajak, setoran tunai	Ganti atm, ebanking	15.30	15.40
+385	05/08/2021	Dayeuhkolot	BAA	2	228	114	Medium	3	73	24	setor tunai	ganti kartu	15.00	16.00
+386	05/08/2021	Pasir Kaliki	BAA	2	163	82	Under	1	18	18	Setoran tunai	Ganti atm	15.00	14.45
+387	05/08/2021	Majalaya	BAA	3	673	224	Over	3	43	14	Setor dan payroll	Buka rekening	15.15	15.00
+388	05/08/2021	Banjaran	BAA	2	115	58	Under	2	78	39	Setoran	Buka rek	15.45	15.45
+389	05/08/2021	Pangalengan	BAA	1	165	165	Optimum	1	35	35	Setoran tunai	Ganti kartu	15.00	15.00
+390	06/08/2021	Asia Afrika Utara	BAA	5	766	153	Optimum	4	68	17	Skn , tarik tunai , tt , pemb bpjs	Ganti kartu, m-banking, buka rekening, CRM	16.15	15.35
+391	06/08/2021	Soekarno-Hatta	BAA	4	441	110	Medium	4	63	16	Transfer dan setor	Buka rekening +  online , ganti kartu	15.01	15.10
+392	06/08/2021	Binacitra	BAA	3	280	93	Under	3	29	10	setoran	ganti kartu	15.30	15.30
+393	06/08/2021	Metro	BAA	4	435	109	Medium	3	80	27	Setor spbu	Aktivasi  and ganti kartu	16.00	16.00
+394	06/08/2021	Kiara Condong	BAA	2	285	143	Medium	2	50	25	setor tunai 	ganti kartu	15.10	14.55
+395	06/08/2021	Buah Batu	BAA	3	245	82	Under	4	47	12	Tarik dan setor tunai	Ganti kartu 	15.30	16.30
+396	06/08/2021	Siliwangi	BAA	2	367	184	Over	4	50	13	Penarikan dan pencairan cek	Penggantian Kartu Debit	14.56	14.15
+397	06/08/2021	Alun-Alun	BAA	3	313	104	Medium	3	13	4	Setor tarik	Ganti kartu	15.15	15.15
+398	06/08/2021	Sumbersari	BAA	3	68	23	Under	3	74	25	Setor tunai	Ganti kartu atm	15.00	15.15
+399	06/08/2021	Jamika	BAA	2	270	135	Medium	2	43	22	Setor Tunai, Multipayment	Ganti Kartu ATM	15.05	15.10
+400	06/08/2021	Burangrang	BAA	2	248	124	Medium	2	25	13	Setoran tunai	Penggantian ATM	15.00	15.00
+401	06/08/2021	Mohamad Toha	BAA	2	335	168	Optimum	2	39	20	Setoran Tunai	Ganti kartu ATM	15.10	14.50
+402	06/08/2021	Soreang	BAA	3	301	100	Medium	2	81	41	Setror	Buka rekening	15.00	15.48
+403	06/08/2021	Taman Kopo Indah	BAA	3	352	117	Medium	3	58	19	Setor tunai, tarik tunai	Ganti atm	16.10	15.45
+404	06/08/2021	Dayeuhkolot	BAA	2	281	141	Medium	3	75	25	setor tunai	penggantian kartu	15.30	16.00
+405	06/08/2021	Pasir Kaliki	BAA	2	236	118	Medium	1	19	19	Setoran tunai	Ganti atm	15.00	15.00
+406	06/08/2021	Majalaya	BAA	3	558	186	Over	2	47	24	Setor dan payroll	Buka rekening	15.50	15.30
+407	06/08/2021	Banjaran	BAA	2	179	90	Under	3	78	26	Setoran	Ganti atm	16.00	16.00
+408	06/08/2021	Pangalengan	BAA	1	160	160	Optimum	1	35	35	Penarikan	Ganti kartu	15.30	15.00
+409	09/08/2021	Asia Afrika Utara	BAA	4	540	135	Medium	4	71	18	Setor	Ganti kartu	15.00	15.15
+410	09/08/2021	Soekarno-Hatta	BAA	3	443	148	Medium	4	48	12	Setor tunai	Pergantian kartu	15.00	15.00
+411	09/08/2021	Binacitra	BAA	3	380	127	Medium	2	45	23	setoran	ganti kartu	15.00	15.00
+412	09/08/2021	Metro	BAA	3	380	127	Medium	3	80	27	Setor spbu	Aktivasi , ganti kartu	16.00	16.00
+413	09/08/2021	Kiara Condong	BAA	2	317	159	Optimum	2	58	29	Pembayaran bpjs	ganti kartu dand daftar 	15.05	14.50
+414	09/08/2021	Buah Batu	BAA	3	255	85	Under	4	57	14	setor	Ganti kartu 	15.00	15.15
+415	09/08/2021	Siliwangi	BAA	2	353	177	Over	4	70	18	Setoran dan penarikan	Penggantian Kartu Debit	14.45	15.15
+416	09/08/2021	Alun-Alun	BAA	3	315	105	Medium	3	20	7	Setor skn	Ganti kartu, buka rek	15.00	15.00
+417	09/08/2021	Sumbersari	BAA	3	92	31	Under	3	42	14	Setor tunai	Ganti kartu atm	15.00	15.30
+418	09/08/2021	Jamika	BAA	3	310	103	Medium	2	75	38	Skn, rgts, skn	Ganti Kartu, burek	16.30	17.00
+419	09/08/2021	Burangrang	BAA	2	240	120	Medium	2	39	20	Setoran tunai	Ganti ATM	15.00	15.00
+420	09/08/2021	Mohamad Toha	BAA	2	293	147	Medium	2	40	20	Setoran Tunai	Ganti kartu ATM	14.50	14.30
+421	09/08/2021	Soreang	BAA	3	302	101	Medium	3	86	29	Setor	Buka rekening	15.02	15.02
+422	09/08/2021	Taman Kopo Indah	BAA	3	424	141	Medium	3	65	22	Setor tunai, penarikan	Buka blokir atm, ganti atm, buka rekening	15.53	16.05
+423	09/08/2021	Dayeuhkolot	BAA	3	334	111	Medium	3	70	23	setor tunai	penggantian kartu dan pendaftaran 	15.00	15.30
+424	09/08/2021	Pasir Kaliki	BAA	2	248	124	Medium	1	31	31	Setoran tunai	Ganti atm	15.00	15.00
+425	09/08/2021	Majalaya	BAA	3	437	146	Medium	3	52	17	Setor	Ganti kartu	16.30	16.00
+426	09/08/2021	Banjaran	BAA	2	175	88	Under	3	85	28	Setor	Ganti kartu	16.05	16.00
+427	09/08/2021	Pangalengan	BAA	1	186	186	Over	1	35	35	Setoran tunai	Ganti kartu	15.30	15.30
+428	10/08/2021	Asia Afrika Utara	BAA	4	496	124	Medium	4	69	17	setor	ganti kartu	15.15	15.40
+429	10/08/2021	Soekarno-Hatta	BAA	4	467	117	Medium	4	68	17	Setor tunai	Penggantian kartu atm	15.00	15.00
+430	10/08/2021	Binacitra	BAA	3	335	112	Medium	3	40	13	setoran	ganti kartu	15.00	15.00
+431	10/08/2021	Metro	BAA	3	362	121	Medium	3	87	29	Setoran spbu	Ganti atm, aktivasi 	16.00	16.00
+432	10/08/2021	Kiara Condong	BAA	2	204	102	Medium	2	57	29	setor tunai dan pembayaran	ganti kartu	14.55	14.40
+433	10/08/2021	Buah Batu	BAA	3	250	83	Under	3	40	13	setor	ganti kartu	15.00	15.00
+434	10/08/2021	Siliwangi	BAA	2	187	94	Under	4	43	11	Pencairan Cek dan Kliring	Penggantian Kartu Debit	14.53	15.02
+435	10/08/2021	Alun-Alun	BAA	3	166	55	Under	3	25	8	Setor tarik	Ganti kartu	15.00	15.00
+436	10/08/2021	Sumbersari	BAA	3	42	14	Under	3	45	15	Setor tunai	Ganti kartu atm	15.00	15.00
+437	10/08/2021	Jamika	BAA	3	216	72	Under	2	54	27	Tarik, setor, pembayaran	Ganti kartu, daftar mbanking, burek	15.10	15.07
+438	10/08/2021	Burangrang	BAA	2	236	118	Medium	2	38	19	Setoran tunai 	Ganti ATM	15.00	15.00
+439	10/08/2021	Mohamad Toha	BAA	2	253	127	Medium	2	31	16	Setoran tunai	Ganti kartu ATM	14.50	14.30
+440	10/08/2021	Soreang	BAA	3	302	101	Medium	3	97	32	Setoran	Buka rekening	15.00	15.00
+441	10/08/2021	Taman Kopo Indah	BAA	3	340	113	Medium	3	75	25	Setoran dan tarik tunai	Buka rekening,  dan Upgrade chip	15.30	15.30
+442	10/08/2021	Dayeuhkolot	BAA	3	270	90	Under	3	65	22	setor tunai	penggantian kartu	15.30	16.00
+443	10/08/2021	Pasir Kaliki	BAA	2	150	75	Under	1	15	15	Setor tunai	Ganti atm	15.00	15.00
+444	10/08/2021	Majalaya	BAA	3	288	96	Under	3	45	15	Setor	Buka rekening	16.00	15.50
+445	10/08/2021	Banjaran	BAA	2	185	93	Under	3	90	30	Penarikan	Ganti kartu atm	16.00	16.00
+446	10/08/2021	Pangalengan	BAA	1	101	101	Medium	1	35	35	Setor tunai	Ganti kartu	15.30	15.50
+447	12/08/2021	Asia Afrika Utara	BAA	4	453	113	Medium	5	68	14	setor tunai	ganti atm	15.14	16.05
+448	12/08/2021	Soekarno-Hatta	BAA	4	408	102	Medium	4	62	16	Setor tunai	Pembukaan rekening	15.30	15.30
+449	12/08/2021	Binacitra	BAA	3	324	108	Medium	3	50	17	Setoran	Ganti kartu	15.00	15.00
+450	12/08/2021	Metro	BAA	3	350	117	Medium	2	80	40	Setoran	Pembukaan rekening dan penggantian kartu	15.00	16.00
+451	12/08/2021	Kiara Condong	BAA	2	285	143	Medium	3	105	35	setor tunai	ganti kartu dan buka rekening	15.00	15.15
+452	12/08/2021	Buah Batu	BAA	2	217	109	Medium	3	62	21	penarikan	ganti kartu	15.30	16.14
+453	12/08/2021	Siliwangi	BAA	2	254	127	Medium	4	56	14	Setoran dan SKN	Penggantian Kartu Debit	14.48	14.57
+454	12/08/2021	Alun-Alun	BAA	3	242	81	Under	3	3	1	Skn	Ganti kartu	15.00	15.00
+455	12/08/2021	Sumbersari	BAA	3	60	20	Under	3	58	19	Setor tunai	Ganti kartu atm	15.00	15.10
+456	12/08/2021	Jamika	BAA	3	323	108	Medium	2	87	44	SKN RTGS setoran tarik tunai	Ganti kartu, buka blokir, pembukaan rekening	16.25	17.38
+457	12/08/2021	Burangrang	BAA	2	199	100	Under	2	44	22	Penarikan tunai	Ganti atm	15.00	15.00
+458	12/08/2021	Mohamad Toha	BAA	2	355	178	Over	2	53	27	Setoran Tunai	Ganti Kartu ATM	15.10	15.05
+459	12/08/2021	Soreang	BAA	3	302	101	Medium	3	86	29	Setor	Buka rekening	15.00	15.00
+460	12/08/2021	Taman Kopo Indah	BAA	3	281	94	Under	3	73	24	Penarikan	Buka rekening, daftar mbanking	16.05	15.57
+461	12/08/2021	Dayeuhkolot	BAA	3	198	66	Under	3	90	30	setor tunai	penggantian kartu	15.30	16.15
+462	12/08/2021	Pasir Kaliki	BAA	2	153	77	Under	1	25	25	Setor tunai	Ganti atm	15.00	15.00
+463	12/08/2021	Majalaya	BAA	3	325	108	Medium	3	48	16	setor	Ganti kartu	15.00	15.10
+464	12/08/2021	Banjaran	BAA	2	250	125	Medium	2	100	50	Setoran	Buka rek	17.00	17.00
+465	12/08/2021	Pangalengan	BAA	1	160	160	Optimum	1	35	35	Setoran tunai	Ganti kartu	15.30	15.00
+466	13/08/2021	Asia Afrika Utara	BAA	5	563	113	Medium	4	74	19	setor	ganti kartu	15.30	15.50
+467	13/08/2021	Soekarno-Hatta	BAA	3	554	185	Over	4	65	16	Setor tunai	Penggantian kartu atm	15.00	15.00
+468	13/08/2021	Binacitra	BAA	3	330	110	Medium	3	45	15	setoran	ganti kartu	15.00	15.00
+469	13/08/2021	Metro	BAA	3	311	104	Medium	3	80	27	Setoran tunai	Buka rekening dan ganti atm	15.30	15.00
+470	13/08/2021	Kiara Condong	BAA	2	267	134	Medium	3	3	1	Setoran tunai	Ganti kartu dan daftar  by 	15.10	14.50
+471	13/08/2021	Buah Batu	BAA	2	290	145	Medium	3	46	15	setor	ganti kartu	15.30	16.10
+472	13/08/2021	Siliwangi	BAA	2	253	127	Medium	4	35	9	Penarikan dan SKN	Penggantian kartu debit dan pembukaan rekening	14.56	15.02
+473	13/08/2021	Alun-Alun	BAA	3	190	63	Under	3	25	8	Setor tarik	Ganti kartu	15.00	15.00
+474	13/08/2021	Sumbersari	BAA	3	300	100	Medium	4	65	16	Setor tunai	Ganti kartu atm	15.00	15.10
+475	13/08/2021	Jamika	BAA	3	374	125	Medium	3	46	15	Skn, rtgs, setoran, transfer	Ganti kartu, buka blokir, pembukaan rekening	16.00	16.22
+476	13/08/2021	Burangrang	BAA	2	232	116	Medium	2	33	17	Setor tunai 	Ganti ATM 	15.00	15.00
+477	13/08/2021	Mohamad Toha	BAA	2	323	162	Optimum	2	42	21	Setoran Tunai	Ganti kartu ATM	15.05	14.55
+478	13/08/2021	Soreang	BAA	3	320	107	Medium	3	81	27	Setor tunai	Buka rekening	15.00	15.30
+479	13/08/2021	Taman Kopo Indah	BAA	3	347	116	Medium	3	82	27	Setoran	Ganti atm	15.30	15.28
+480	13/08/2021	Dayeuhkolot	BAA	2	285	143	Medium	3	80	27	setor tunai	penggantian kartu 	15.30	16.30
+481	13/08/2021	Pasir Kaliki	BAA	2	169	85	Under	1	13	13	Setoran	Ganti atm	15.00	15.00
+482	13/08/2021	Majalaya	BAA	3	385	128	Medium	2	38	19	Setor	Ganti kartu	15.15	15.00
+483	13/08/2021	Banjaran	BAA	2	175	88	Under	3	87	29	Setoran	Buka rek	16.20	16.20
+484	13/08/2021	Pangalengan	BAA	1	145	145	Medium	1	35	35	Setoran tunai	Buka rekening	15.30	15.10
